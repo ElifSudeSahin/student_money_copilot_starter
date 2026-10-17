@@ -1,10 +1,5 @@
 # Student Money Copilot
 
-## Team
-- Zeynep — GitHub: zeynakcn
-- Sude — GitHub: ...
-- Elif — GitHub: ...
-
 ## Idea
 
 Student Money Copilot is a private local-AI financial assistant for
