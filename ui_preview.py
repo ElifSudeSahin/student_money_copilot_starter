@@ -7,7 +7,7 @@ from ui.dashboard import render_dashboard
 from ui.regular_expenses import render_regular_expenses
 from ui.money_copilot import render_money_copilot
 
-st.set_page_config(page_title="Student Money Copilot — UI Preview", page_icon="💸", layout="wide")
+st.set_page_config(page_title="Student Money Copilot", page_icon="💸", layout="wide")
 apply_styles()
 
 st.title("💸 Student Money Copilot")
