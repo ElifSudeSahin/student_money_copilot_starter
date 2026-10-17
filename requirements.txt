@@ -1,1 +1,2 @@
 streamlit>=1.39
+tetherto-qvac-sdk==0.21.0
