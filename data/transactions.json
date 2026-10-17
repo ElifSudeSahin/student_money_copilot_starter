@@ -1,4 +1,83 @@
+
 [
+  {
+    "date": "2026-09-18",
+    "merchant": "Cafe Torino",
+    "amount": 5.0,
+    "category": "Cafes"
+  },
+  {
+    "date": "2026-09-19",
+    "merchant": "Lidl",
+    "amount": 27.4,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-09-20",
+    "merchant": "Trattoria",
+    "amount": 18.5,
+    "category": "Restaurants"
+  },
+  {
+    "date": "2026-09-21",
+    "merchant": "GTT",
+    "amount": 2.0,
+    "category": "Transport"
+  },
+  {
+    "date": "2026-09-22",
+    "merchant": "Coffee",
+    "amount": 3.8,
+    "category": "Food"
+  },
+  {
+    "date": "2026-09-23",
+    "merchant": "Cinema",
+    "amount": 9.5,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2026-09-24",
+    "merchant": "Carrefour",
+    "amount": 16.75,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-09-25",
+    "merchant": "Pizzeria",
+    "amount": 14.0,
+    "category": "Restaurants"
+  },
+  {
+    "date": "2026-09-26",
+    "merchant": "Gelateria",
+    "amount": 4.5,
+    "category": "Food"
+  },
+  {
+    "date": "2026-09-27",
+    "merchant": "University Canteen",
+    "amount": 7.2,
+    "category": "Food"
+  },
+  {
+    "date": "2026-09-28",
+    "merchant": "H&M",
+    "amount": 19.9,
+    "category": "Shopping"
+  },
+  {
+    "date": "2026-09-29",
+    "merchant": "Cafe Torino",
+    "amount": 6.4,
+    "category": "Cafes"
+  },
+  {
+    "date": "2026-09-30",
+    "merchant": "Sandwich Shop",
+    "amount": 8.8,
+    "category": "Food"
+  },
   {
     "date": "2026-10-01",
     "merchant": "Carrefour",
@@ -18,9 +97,87 @@
     "category": "Shopping"
   },
   {
+    "date": "2026-10-04",
+    "merchant": "Pizzeria",
+    "amount": 16.5,
+    "category": "Restaurants"
+  },
+  {
     "date": "2026-10-05",
     "merchant": "GTT",
     "amount": 25.0,
     "category": "Transport"
+  },
+  {
+    "date": "2026-10-06",
+    "merchant": "Cafe Torino",
+    "amount": 5.2,
+    "category": "Cafes"
+  },
+  {
+    "date": "2026-10-07",
+    "merchant": "Supermarket",
+    "amount": 23.6,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-10-08",
+    "merchant": "Sushi Restaurant",
+    "amount": 21.0,
+    "category": "Restaurants"
+  },
+  {
+    "date": "2026-10-09",
+    "merchant": "Cinema",
+    "amount": 10.0,
+    "category": "Entertainment"
+  },
+  {
+    "date": "2026-10-10",
+    "merchant": "Coffee",
+    "amount": 4.0,
+    "category": "Food"
+  },
+  {
+    "date": "2026-10-10",
+    "merchant": "Burger Restaurant",
+    "amount": 13.5,
+    "category": "Restaurants"
+  },
+  {
+    "date": "2026-10-11",
+    "merchant": "GTT",
+    "amount": 2.0,
+    "category": "Transport"
+  },
+  {
+    "date": "2026-10-12",
+    "merchant": "Restaurant",
+    "amount": 24.0,
+    "category": "Restaurants"
+  },
+  {
+    "date": "2026-10-13",
+    "merchant": "Gelateria",
+    "amount": 4.8,
+    "category": "Food"
+  },
+  {
+    "date": "2026-10-14",
+    "merchant": "Carrefour",
+    "amount": 18.4,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-10-15",
+    "merchant": "Cafe Torino",
+    "amount": 6.0,
+    "category": "Cafes"
+  },
+  {
+    "date": "2026-10-16",
+    "merchant": "Pizzeria",
+    "amount": 12.0,
+    "category": "Restaurants"
   }
 ]
