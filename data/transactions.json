@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-10-01",
+    "merchant": "Carrefour",
+    "amount": 21.0,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Coffee",
+    "amount": 4.5,
+    "category": "Food"
+  },
+  {
+    "date": "2026-10-03",
+    "merchant": "Zara",
+    "amount": 42.0,
+    "category": "Shopping"
+  },
+  {
+    "date": "2026-10-05",
+    "merchant": "GTT",
+    "amount": 25.0,
+    "category": "Transport"
+  }
+]
